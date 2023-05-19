@@ -1,16 +1,20 @@
+![FUTURE CODER - AMAIA](https://github.com/AmaiaAbaroa/AmaiaAbaroa/assets/128180186/93d328bc-51ce-4cd5-bbbb-fb6b5fd2e6da)
+
+
 ### Hi there 👋
 
-<!--
-**AmaiaAbaroa/AmaiaAbaroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Amaia
+#### I am a Future Front-end Developer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying a bootcamp in F5 and determined to be a junior profile by the end of the year.
+
+Habilidades: HTML / CSS
+
+
+
+
+
+
+
+
