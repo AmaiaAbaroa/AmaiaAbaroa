@@ -7,7 +7,7 @@ My name is Amaia
 #### I am a Future Front-end Developer
 
 
-I am currently studying a bootcamp in F5 and determined to be a junior profile by the end of the year.
+I am currently studying a bootcamp in F5 and determined to be a junior by the end of the year.
 
 - 🌱 I’m currently learning UX/UI / HTML / CSS /SASS / JavaScript 
 
