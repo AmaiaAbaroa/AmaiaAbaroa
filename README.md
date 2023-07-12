@@ -7,7 +7,7 @@
 
 <br>
 
-<h3 align="center">I am passionate about Web Development. And I am determined to becoming a great Front-end Developer.</h3>
+<h3 align="center">I am passionate about Web Development. And I am determined to become a great Front-end Developer.</h3>
 
 <br>
 
